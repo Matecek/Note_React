@@ -16,5 +16,5 @@ Teraz możemy uruchomić aplikacje poprzez link podany tutaj.
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 # Website:
-[Live demo](https://pizza.mdbgo.io/)
+[Live demo](https://notes-mateusz.netlify.app/)
 
