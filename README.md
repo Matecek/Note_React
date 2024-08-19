@@ -4,9 +4,9 @@
 Aplikacja notanika z możliwościa tworzenia folderów, usuwania i przywracania notatek.
 
 # Run:
-Aby uruchomić back-end aplikacji należy pobrać folder back-end.
-Następnie w konsoli folderu wpisujemy <b><i>npm install</b></i>
-Po zainstalowaniu pakietu Node wpisujemy <b><i>npm run dev</b></i>
+Aby uruchomić back-end aplikacji należy pobrać folder back-end.<br>
+Następnie w konsoli folderu wpisujemy <h3><b><i>npm install</b></i><br></h3>
+Po zainstalowaniu pakietu Node wpisujemy <h3><b><i>npm run dev</b></i><br></h3>
 
 Teraz możemy uruchomić aplikacje poprzez link podany tutaj.
 
