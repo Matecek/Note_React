@@ -1,4 +1,4 @@
-# Projekt Pizzeri
+# Projekt Notatnika 
 
 # Description:
 Aplikacja notanika z możliwościa tworzenia folderów, usuwania i przywracania notatek.
