@@ -1,4 +1,4 @@
-# Projekt Notatnika 
+# Projekt Notatnika w React
 
 # Description:
 Aplikacja notanika z możliwościa tworzenia folderów, usuwania i przywracania notatek.
